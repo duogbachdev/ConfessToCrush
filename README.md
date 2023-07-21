@@ -4,9 +4,10 @@
 
 Clone project and run test.
 
+```
 $ git clone https://git_url_clone <project_dir>
-
 $ cd <project_dir> 
+```
 
 Demo: https://confess-to-crush.vercel.app/
 
